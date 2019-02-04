@@ -1,11 +1,9 @@
 ---
 layout: notes
-title: User stories
-tags:
-  - agile
+title: user stories
 ---
 
-# Independent
+# independent
 
 Stories should be self-contained and no inherent dependency on another user
 stories.
@@ -33,7 +31,7 @@ stories.
 >  Make sure the menu shows the user profile
 
 
-# Negotiable
+# negotiable
 
 Nothing is fixed and set in stone except the iteration on the backlog. Stories
 on a backlog or even the entire backlog can be clarified, rewritten or
@@ -49,7 +47,7 @@ to neogitate and merge the stories. Likewise if the story is too big to
 effectively estimate or complete in a sprint it then the task should cut into
 smaller logical parts which will aide with the identificaiton of unknown-unknowns.
 
-# Valuable
+# valuable
 
 If it's not providing value to the project stake holders why are you doing it?
 
@@ -61,14 +59,14 @@ Breaking down user stories into separate user story for front-end and back-end
 does not provide value because it is not releasable to customers
 
 
-# Estimatable
+# estimatable
 
 If a user story size cannot be estimated, it should not be planned, tasked or
 included into the sprint. If there's a lack of supporting information in the
 story that prevents estimation then how did the story end up in the sprint?
 It's time to re-review the defintion of ready.
 
-# Testable
+# testable
 
 Can you test the story in isolation? Have you covered both happy and failure
 test scenarios? Ensure that the acceptance critera is independant and does not
