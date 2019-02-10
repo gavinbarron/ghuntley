@@ -2,6 +2,16 @@
 title: thanks
 ---
 
+# supporters
+If you or your company uses open-source software or appreciates the work I do in open source, please [consider supporting me](https://www.patreon.com/ghuntley/overview)! I think it's pretty clear that software actually costs something, and that even though it may be offered freely, somebody is paying the cost. 
+
+You'll be helping to ensure I can spend the time not just fixing bugs, adding features, releasing new versions, but also keeping projects afloat and growing. Think of investing in me not just for the output of my code but my continued role in the open-source ecosystem.
+
+These lovely people do, you should too:
+- [John Szaszvari](https://twitter.com/john_sz)
+
+
+# contributors
 These lovely people have contributed a fix to my blog. If you want to see yourself in this list, send me a pull request! Every post in my blog has an edit link (the octocat button) that lets you edit the blog post directly in the browser which automatically sends me a pull request.
 
 Or [visit my repository](https://github.com/ghuntley/ghuntley) and send me a pull
