@@ -8,6 +8,7 @@ If you or your company uses open-source software or appreciates the work I do in
 You'll be helping to ensure I can spend the time not just fixing bugs, adding features, releasing new versions, but also keeping projects afloat and growing. Think of investing in me not just for the output of my code but my continued role in the open-source ecosystem.
 
 These lovely people do, you should too:
+
 - [John Szaszvari](https://twitter.com/john_sz)
 
 
