@@ -15,7 +15,7 @@ help. We do this:
 
 High-performing teams have one thing in common: psychological safety, the belief that you won't be punished when you make a mistake or "being able to show and employ one's self without fear of negative consequences of self-image, status or career"
 
-Psychological safety is important as it enables moderate risk-taking, speaking your mind, creativity, and sticking your neck out without fear of having it cut off — just the types of behavior that lead to market breakthroughs that asked from this team. 
+Psychological safety is important as it enables moderate risk-taking, speaking your mind, creativity, and sticking your neck out without fear of having it cut off — just the types of behavior that lead to market breakthroughs that are asked from this team. 
 
 TL;DR - Please overshare during standup. Be awesome to each other and if voilated please start a discussion with your 1-up.
 
