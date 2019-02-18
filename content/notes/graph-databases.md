@@ -4,7 +4,7 @@ layout: notes
 ---
 
 # concepts
-- order -> number of vertices
+- order: number of vertices
 - sub-graph: part of a graph
 - degre: degree of a vetrex is the total number of edges connecting the vertex
 - out-degree and in-degree: for directed graph, degree has in-degree and out-degree
