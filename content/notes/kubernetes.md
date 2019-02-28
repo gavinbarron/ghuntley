@@ -3,6 +3,10 @@ title: kubernetes
 layout: notes
 ---
 
+# visualisation
+
+https://code.benco.io/kubeview/
+
 # contributing 
 https://gist.github.com/tpepper/aad07af79ed6d098e3a41e1db452ce79
 
