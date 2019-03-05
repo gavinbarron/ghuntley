@@ -10,7 +10,7 @@ Hello there! To help you fall even more in love with Seattle heere's a list of i
 # coffee
 - http://www.slatecoffee.com/ for v60 third wave unburnt coffee
 - https://www.shop.storyville.com/ for v60 third wave unburnt coffe
-- https://en.wikipedia.org/wiki/Monorail_Espresso for burnt by aussie standards but perfect by seattle standard expressos
+- https://en.wikipedia.org/wiki/Monorail_Espresso for burnt by aussie standards but perfect by seattle standards expressos
 
 # books
 - http://www.adasbooks.com/
