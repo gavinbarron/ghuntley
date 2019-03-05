@@ -31,6 +31,7 @@ Hello there! To help you fall even more in love with Seattle here's a list of id
 - http://chihulygardenandglass.com/
 - https://www.ddir.com/
 - https://foursquare.com/v/broiler-bay-burgers/4b7476d9f964a52033de2de3/menu
+- https://cedarsseattle.com/
 
 # knitting and yarn
 - http://www.pacificfabrics.com/
