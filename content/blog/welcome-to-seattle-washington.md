@@ -9,10 +9,15 @@ categories:
 - http://www.slatecoffee.com/
 - https://www.shop.storyville.com/
 
+# books
+- http://www.adasbooks.com/
+
 # beer
 - https://www.fremontbrewing.com/
+- https://www.redmondhophouse.com/
 
 # bars
+- https://joeyrestaurants.com/location/joey-bellevue is the default meeting place of the #mvpsummit
 
 # food
 - https://www.seawolfbakers.com/
@@ -20,10 +25,20 @@ categories:
 - http://www.pikeplacechowder.com/
 - http://www.beechershandmadecheese.com/
 - http://www.cupcakeroyale.com/
+- http://chihulygardenandglass.com/
+- https://www.ddir.com/
+- https://foursquare.com/v/broiler-bay-burgers/4b7476d9f964a52033de2de3/menu
+
+# knitting and yarn
+- http://www.pacificfabrics.com/
 
 # things to do
+- http://www.livingcomputers.org/
 - https://cinerama.com/ get the chocolate popcorn
 - http://www.undergroundtour.com/
 - https://www.mopop.org/
 - https://www.seattlepinballmuseum.com/
-- 
+- http://www.museumofflight.org/
+- http://www.ballardlocks.org/
+- https://en.wikipedia.org/wiki/Fremont_Troll
+- http://www.whirlyballseattle.com/
