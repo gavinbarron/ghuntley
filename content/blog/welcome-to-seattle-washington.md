@@ -5,11 +5,11 @@ categories:
 - hospitality
 ---
 
-Hello there! To help you fall even more in love with Seattle heere's a list of ideas. If you discover something awesome during your stay please send in a PR with the deets by tapping the Octocat.
+Hello there! To help you fall even more in love with Seattle here's a list of ideas. If you discover something awesome during your stay please send in a PR with the deets by tapping the Octocat.
 
 # coffee
-- http://www.slatecoffee.com/ for v60 third wave unburnt coffee
-- https://www.shop.storyville.com/ for v60 third wave unburnt coffe
+- http://www.slatecoffee.com/ for knockout v60 third wave unburnt coffee
+- https://www.shop.storyville.com/ for knockout v60 third wave unburnt coffee
 - https://en.wikipedia.org/wiki/Monorail_Espresso for burnt by aussie standards but perfect by seattle standards expressos
 
 # books
