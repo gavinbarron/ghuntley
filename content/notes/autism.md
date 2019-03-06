@@ -24,3 +24,7 @@ title: autism
 > I am an adult who was diagnosed with Asperger's in 5th grade.
 
 > Self discovery is key for anyone on the spectrum. For me things like constantly having earbuds, textile I wear, maintaining light (via sunglasses), etc.
+
+# references
+- https://boren.blog/2017/01/26/autistic-burnout-the-cost-of-coping-and-passing/
+- http://stevesilberman.com/book/neurotribes/
