@@ -5,3 +5,10 @@ title: autism
 
 > Being autistic means a lifetime of fluid adaptation. We get a handle on something, develop coping strategies, adapt and we’re good. If life changes, we many need some time to readapt. Find the new pattern. Figure out the rules. Test out strategies to see what works. In the mean time, other things may fall apart. We lose skills. We struggle to cope with things that had previously been doable under more predictable conditions. This is not regression to an earlier developmental stage, it’s a process of adapting to new challenges and it’s one that we do across a lifetime of being autistic.
 
+> If you’re thinking that sounds like a lot, you’re right. Some autistic people find it easier than others, just as some people have an innate talent for drawing or dancing. But unlike a hobby or even a career we have to put the effort in every waking hour of every day.
+
+> Yes, as with anything that’s practised constantly, we can become very skilled at hiding how we really are. Many of us have heard the refrain, “But you don’t look autistic” in response to telling people that we are. Could you just not?
+
+> Being skilled at something does not mean it’s effortless. It might lookeffortless, but that’s the result of many years of experience and practice. Like a prima ballerina, we put so many years of training, so much effort into making it appear fluent and natural, flawless.
+
+> It’s exhausting. And what makes it harder is that many of our instinctive behaviours are things that help us cope better. Stimming reduces sensory overload, reduces our stress and anxiety. Many other behaviours either help us cope or are ways we communicate, like an autistic body language.
