@@ -20,3 +20,5 @@ title: autism
 > So…
 
 > I’m OK being autistic.
+
+> I am an adult who was diagnosed with Asperger's in 5th grade.
