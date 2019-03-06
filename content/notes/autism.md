@@ -22,3 +22,5 @@ title: autism
 > I’m OK being autistic.
 
 > I am an adult who was diagnosed with Asperger's in 5th grade.
+
+> Self discovery is key for anyone on the spectrum. For me things like constantly having earbuds, textile I wear, maintaining light (via sunglasses), etc.
