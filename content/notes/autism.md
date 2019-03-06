@@ -25,6 +25,10 @@ title: autism
 
 > Self discovery is key for anyone on the spectrum. For me things like constantly having earbuds, textile I wear, maintaining light (via sunglasses), etc.
 
+
+# a
+- https://twitter.com/Meligy/status/1051718607791509505?s=09
+
 # references
 - https://boren.blog/2017/01/26/autistic-burnout-the-cost-of-coping-and-passing/
 - http://stevesilberman.com/book/neurotribes/
