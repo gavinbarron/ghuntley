@@ -15,4 +15,4 @@ title: autism
 
 >  If you are even somewhat okay with who you are at your deepest levels, you will not ever be able to hide many of your differences from everyone around you almost all the time. And that’s what the “optimal outcome” requires. It’s not masking at will or when circumstance demand. It’s managing and monitoring every behavior and every interaction all the time and never, ever stopping. It’s taking every failure and building it into your internalized system to try to avoid repeating it. And all that has to happen mostly on a semi-conscious or subconscious level like the details of driving a car. If you have to think about it, you won’t be able to do it.
 
-And the whole time, you will still be autist
+> And the whole time, you will still be autist
