@@ -11,6 +11,7 @@ Hello there! To help you fall even more in love with Seattle here's a list of id
 - http://www.slatecoffee.com/ for knockout v60 third wave unburnt coffee
 - https://www.shop.storyville.com/ for good v60 third wave unburnt coffee
 - https://en.wikipedia.org/wiki/Monorail_Espresso for burnt by aussie standards but perfect by seattle standards expressos
+- http://cafecesura.com/ for decent coffee in Downtown Bellevue, they may not list a flat white but they make one that does not suck
 
 # books
 - http://www.adasbooks.com/
@@ -18,6 +19,7 @@ Hello there! To help you fall even more in love with Seattle here's a list of id
 # beer
 - https://www.fremontbrewing.com/
 - https://www.redmondhophouse.com/
+- http://postdocbrewing.com/
 
 # bars
 - https://joeyrestaurants.com/location/joey-bellevue is the default meeting place of the #mvpsummit
